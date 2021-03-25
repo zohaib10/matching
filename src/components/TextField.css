@@ -1,0 +1,14 @@
+.text-field {
+  padding: 8px;
+}
+
+.label {
+  font-size: 12px;
+  line-height: 18px;
+  color: gray;
+  margin-top: 8px;
+}
+
+.value {
+  font-size: 14px;
+}
